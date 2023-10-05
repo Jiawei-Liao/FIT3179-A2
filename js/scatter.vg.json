@@ -77,7 +77,8 @@
         "align": "right",
         "baseline": "middle",
         "dx": -3,
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "fontWeight": "bold"
       },
       "encoding": {
         "text": {

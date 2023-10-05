@@ -137,7 +137,7 @@
             },
             {"filter": "datum.ranking == 1"},
             {
-              "calculate": "'The highest scoring country is; ' + datum.Country + ' with a score of ' + datum.Score",
+              "calculate": "'The highest scoring country is; ' + datum.Country + '; with a score of ' + format(datum.Score, '.2f')",
               "as": "annotation_raw"
             },
             {
@@ -145,13 +145,34 @@
               "as": "annotation"
             }
           ],
-          "mark": {
-            "type": "text",
-            "align": "left",
-            "dx": 4,
-            "dy": -4
-          },
-          "encoding": {"text": {"field": "annotation", "type": "nominal"}}
+          "layer": [
+            {
+              "mark": {
+                "type": "circle",
+                "color": "red"
+              }
+            },
+            {
+              "mark": {
+                "type": "text",
+                "align": "right",
+                "dx": -5,
+                "color": "red",
+                "fontWeight": "bold"
+              }
+            }
+          ],
+          "encoding": {
+            "longitude": {
+              "field": "Long",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "Lat",
+              "type": "quantitative"
+            },
+            "text": {"field": "annotation", "type": "nominal"}
+          }
         }
       ]
     }
