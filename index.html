@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+  <script src="js/scripts.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+  <title>World Happiness</title>
+</head>
+<body>
+  <div class="page">
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1 class="title">World Happiness</h1>
+        <p>What is a happiness score and who calculates them? How is it calculated? What do the different components of Economy, Family, Health, Freedom, Government, and Generosity mean? How are they found?</p>
+        <div id="choropleth" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <p>Here are some general trends that can be observed from the choropleth map above.<br><br> 1.<br> 2.<br> 3.</p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <p>Here are some outliers that can be observed from the choropleth map above.<br><br> 1.<br> 2.<br> 3.</p>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1 class="title">Happiness Composition</h1>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <div id="rank" class="vis-container"></div>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <p>Here are some interesting facts about the chart to the left<br><br> 1.<br> 2.<br> 3.</p>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="scatter" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <b>Does Money bring Happiness?</b>
+        <p>
+          There is a time old saying of "Money can't buy happiness", but is this really true?
+          From the trends from the chart to the left...
+          <br><br>
+          Is the world getting richer?
+          <br><br>
+          Is the difference between the rich and the poor getting bigger?
+        </p>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1 class="title">Happiness Trends</h1>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <div id="multiple_line" class="vis-container"></div>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <p>
+          Does a region overtake another? Does a region fall behind or becomes sadder?
+          <br><br>
+          Are there any large jumps or drops and what could be the causes of them?
+        </p>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="line" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <p>
+          According from ..., the average happiness is 5.54. These are the trends.
+          <br><br>
+          Why is it increasing or decreasing...
+        </p>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1 small-font">
+        <p>The datasource is <a href="https://www.kaggle.com/datasets/unsdsn/world-happiness" target=" _blank">some data repository online</href>.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

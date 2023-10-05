@@ -1,0 +1,43 @@
+Region,Score,Rank,Type
+Africa,4.588482759,6,Happiness
+Asia,5.149272727,5,Happiness
+Europe,6.085156863,3,Happiness
+North America,7.085,2,Happiness
+Oceania,7.2675,1,Happiness
+South America,5.954428571,4,Happiness
+Africa,0.632568966,6,Economy
+Asia,0.924227273,5,Economy
+Europe,1.162705882,3,Economy
+North America,1.399,2,Economy
+Oceania,1.3375,1,Economy
+South America,0.924285714,4,Economy
+Africa,0.985034483,6,Family
+Asia,1.187590909,5,Family
+Europe,1.394411765,3,Family
+North America,1.481,2,Family
+Oceania,1.5525,1,Family
+South America,1.339714286,4,Family
+Africa,0.513172414,6,Health
+Asia,0.761227273,5,Health
+Europe,0.894176471,3,Health
+North America,0.9565,2,Health
+Oceania,1.031,1,Health
+South America,0.811857143,4,Health
+Africa,0.333448276,6,Freedom
+Asia,0.446863636,3,Freedom
+Europe,0.404529412,5,Freedom
+North America,0.519,2,Freedom
+Oceania,0.571,1,Freedom
+South America,0.440904762,4,Freedom
+Africa,0.097741379,5,Government
+Asia,0.112863636,4,Government
+Europe,0.127117647,3,Government
+North America,0.218,2,Government
+Oceania,0.335,1,Government
+South America,0.072047619,6,Government
+Africa,0.178310345,4,Generosity
+Asia,0.245272727,3,Generosity
+Europe,0.173215686,5,Generosity
+North America,0.2825,2,Generosity
+Oceania,0.331,1,Generosity
+South America,0.144619048,6,Generosity

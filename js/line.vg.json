@@ -1,0 +1,29 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Difference in Happiness Scores",
+    "width": 220,
+    "height": 100,
+    "data": {"url": "data/Score_Difference.csv"},
+    "mark": {
+        "type": "line",
+        "point": true
+    },
+    "encoding": {
+        "x": {"timeUnit": "year", "field": "Year", "title": "Year"},
+        "y": {"field": "Difference", "type": "quantitative", "scale": {"domain": [4.5, 5]}},
+        "color": {
+            "field": "symbol", 
+            "type": "nominal",
+            "legend": null
+        },
+        "tooltip": [
+            {"field": "Year", "type": "temporal", "timeUnit": "year", "title": "Year"},
+            {"field": "Difference", "type": "quantitative", "format": ".2f"},
+            {"field": "HighScoreCountry", "type": "nominal"},
+            {"field": "HighScore", "type": "quantitative", "format": ".2f"},
+            {"field": "LowScoreCountry", "type": "nominal"},
+            {"field": "LowScore", "type": "quantitative", "format": ".2f"}
+        ]
+    }
+  }
+  

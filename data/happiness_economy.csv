@@ -1,0 +1,783 @@
+Country,Region,Year,Economy,Happiness Score
+Afghanistan,Asia,2015,0.31982,3.575
+Afghanistan,Asia,2016,0.38227,3.36
+Afghanistan,Asia,2017,0.401477218,3.79399991
+Afghanistan,Asia,2018,0.332,3.632
+Afghanistan,Asia,2019,0.35,3.203
+Albania,Europe,2015,0.87867,4.959
+Albania,Europe,2016,0.9553,4.655
+Albania,Europe,2017,0.996192753,4.644000053
+Albania,Europe,2018,0.916,4.586
+Albania,Europe,2019,0.947,4.719
+Algeria,Africa,2015,0.93929,5.605
+Algeria,Africa,2016,1.05266,6.355
+Algeria,Africa,2017,1.091864467,5.872000217
+Algeria,Africa,2018,0.979,5.295
+Algeria,Africa,2019,1.002,5.211
+Angola,Africa,2015,0.75778,4.033
+Angola,Africa,2016,0.84731,3.866
+Angola,Africa,2017,0.85842818,3.795000076
+Angola,Africa,2018,0.73,3.795
+Argentina,South America,2015,1.05351,6.574
+Argentina,South America,2016,1.15137,6.65
+Argentina,South America,2017,1.185295463,6.598999977
+Argentina,South America,2018,1.073,6.388
+Argentina,South America,2019,1.092,6.086
+Armenia,Europe,2015,0.76821,4.35
+Armenia,Europe,2016,0.86086,4.36
+Armenia,Europe,2017,0.900596738,4.375999928
+Armenia,Europe,2018,0.816,4.321
+Armenia,Europe,2019,0.85,4.559
+Australia,Oceania,2015,1.33358,7.284
+Australia,Oceania,2016,1.44443,7.313
+Australia,Oceania,2017,1.484414935,7.28399992
+Australia,Oceania,2018,1.34,7.272
+Australia,Oceania,2019,1.372,7.228
+Austria,Europe,2015,1.33723,7.2
+Austria,Europe,2016,1.45038,7.119
+Austria,Europe,2017,1.487097263,7.006000042
+Austria,Europe,2018,1.341,7.139
+Austria,Europe,2019,1.376,7.246
+Azerbaijan,Europe,2015,1.02389,5.212
+Azerbaijan,Europe,2016,1.12373,5.291
+Azerbaijan,Europe,2017,1.153601766,5.234000206
+Azerbaijan,Europe,2018,1.024,5.201
+Azerbaijan,Europe,2019,1.043,5.208
+Bahrain,Africa,2015,1.32376,5.96
+Bahrain,Africa,2016,1.44024,6.218
+Bahrain,Africa,2017,1.488412261,6.086999893
+Bahrain,Africa,2018,1.338,6.105
+Bahrain,Africa,2019,1.362,6.199
+Bangladesh,Asia,2015,0.39753,4.694
+Bangladesh,Asia,2016,0.54177,4.643
+Bangladesh,Asia,2017,0.586682975,4.607999802
+Bangladesh,Asia,2018,0.532,4.5
+Bangladesh,Asia,2019,0.562,4.456
+Belarus,Europe,2015,1.03192,5.813
+Belarus,Europe,2016,1.13062,5.802
+Belarus,Europe,2017,1.15655756,5.568999767
+Belarus,Europe,2018,1.039,5.483
+Belarus,Europe,2019,1.067,5.323
+Belgium,Europe,2015,1.30782,6.937
+Belgium,Europe,2016,1.42539,6.929
+Belgium,Europe,2017,1.463780761,6.890999794
+Belgium,Europe,2018,1.324,6.927
+Belgium,Europe,2019,1.356,6.923
+Belize,South America,2016,0.87616,5.956
+Belize,South America,2017,0.907975316,5.955999851
+Belize,South America,2018,0.807,5.956
+Benin,Africa,2015,0.28665,3.34
+Benin,Africa,2016,0.39499,3.484
+Benin,Africa,2017,0.431085408,3.657000065
+Benin,Africa,2018,0.378,4.141
+Benin,Africa,2019,0.393,4.883
+Bhutan,Asia,2015,0.77042,5.253
+Bhutan,Asia,2016,0.8527,5.196
+Bhutan,Asia,2017,0.885416389,5.011000156
+Bhutan,Asia,2018,0.796,5.082
+Bhutan,Asia,2019,0.813,5.082
+Bolivia,South America,2015,0.68133,5.89
+Bolivia,South America,2016,0.79422,5.822
+Bolivia,South America,2017,0.833756566,5.822999954
+Bolivia,South America,2018,0.751,5.752
+Bolivia,South America,2019,0.776,5.779
+Bosnia and Herzegovina,Europe,2015,0.83223,4.949
+Bosnia and Herzegovina,Europe,2016,0.93383,5.163
+Bosnia and Herzegovina,Europe,2017,0.982409418,5.18200016
+Bosnia and Herzegovina,Europe,2018,0.915,5.129
+Bosnia and Herzegovina,Europe,2019,0.945,5.386
+Botswana,Africa,2015,0.99355,4.332
+Botswana,Africa,2016,1.09426,3.974
+Botswana,Africa,2017,1.122094154,3.766000032
+Botswana,Africa,2018,1.017,3.59
+Botswana,Africa,2019,1.041,3.488
+Brazil,South America,2015,0.98124,6.983
+Brazil,South America,2016,1.08754,6.952
+Brazil,South America,2017,1.10735321,6.635000229
+Brazil,South America,2018,0.986,6.419
+Brazil,South America,2019,1.004,6.3
+Bulgaria,Europe,2015,1.01216,4.218
+Bulgaria,Europe,2016,1.11306,4.217
+Bulgaria,Europe,2017,1.161459088,4.714000225
+Bulgaria,Europe,2018,1.054,4.933
+Bulgaria,Europe,2019,1.092,5.011
+Burkina Faso,Africa,2015,0.25812,3.587
+Burkina Faso,Africa,2016,0.31995,3.739
+Burkina Faso,Africa,2017,0.350227714,4.032000065
+Burkina Faso,Africa,2018,0.314,4.424
+Burkina Faso,Africa,2019,0.331,4.587
+Burundi,Africa,2015,0.0153,2.905
+Burundi,Africa,2016,0.06831,2.905
+Burundi,Africa,2017,0.091622569,2.904999971
+Burundi,Africa,2018,0.091,2.905
+Burundi,Africa,2019,0.046,3.775
+Cambodia,Asia,2015,0.46038,3.819
+Cambodia,Asia,2016,0.55604,3.907
+Cambodia,Asia,2017,0.601765096,4.168000221
+Cambodia,Asia,2018,0.549,4.433
+Cambodia,Asia,2019,0.574,4.7
+Cameroon,Africa,2015,0.4225,4.252
+Cameroon,Africa,2016,0.52497,4.513
+Cameroon,Africa,2017,0.564305365,4.695000172
+Cameroon,Africa,2018,0.535,4.975
+Cameroon,Africa,2019,0.549,5.044
+Canada,North America,2015,1.32629,7.427
+Canada,North America,2016,1.44015,7.404
+Canada,North America,2017,1.479204416,7.315999985
+Canada,North America,2018,1.33,7.328
+Canada,North America,2019,1.365,7.278
+Central African Republic,Africa,2015,0.0785,3.678
+Central African Republic,Africa,2017,0.0,2.693000078
+Central African Republic,Africa,2018,0.024,3.083
+Central African Republic,Africa,2019,0.026,3.083
+Chad,Africa,2015,0.34193,3.667
+Chad,Africa,2016,0.42214,3.763
+Chad,Africa,2017,0.438012987,3.936000109
+Chad,Africa,2018,0.358,4.301
+Chad,Africa,2019,0.35,4.35
+Chile,South America,2015,1.10715,6.67
+Chile,South America,2016,1.2167,6.705
+Chile,South America,2017,1.25278461,6.65199995
+Chile,South America,2018,1.131,6.476
+Chile,South America,2019,1.159,6.444
+China,Asia,2015,0.89012,5.14
+China,Asia,2016,1.0278,5.245
+China,Asia,2017,1.081165791,5.272999763
+China,Asia,2018,0.989,5.246
+China,Asia,2019,1.029,5.191
+Colombia,South America,2015,0.91861,6.477
+Colombia,South America,2016,1.03032,6.481
+Colombia,South America,2017,1.070622325,6.356999874
+Colombia,South America,2018,0.96,6.26
+Colombia,South America,2019,0.985,6.125
+Comoros,Africa,2015,0.23906,3.956
+Comoros,Africa,2016,0.27509,3.956
+Comoros,Africa,2019,0.274,3.973
+Congo,Africa,2015,0.67866,3.989
+Congo,Africa,2016,0.77109,4.236
+Congo,Africa,2017,0.808964252,4.290999889
+Congo,Africa,2018,0.682,4.559
+Congo,Africa,2019,0.673,4.812
+Costa Rica,South America,2015,0.95578,7.226
+Costa Rica,South America,2016,1.06879,7.087
+Costa Rica,South America,2017,1.109706283,7.078999996
+Costa Rica,South America,2018,1.01,7.072
+Costa Rica,South America,2019,1.034,7.167
+Croatia,Europe,2015,1.08254,5.759
+Croatia,Europe,2016,1.18649,5.488
+Croatia,Europe,2017,1.222556233,5.293000221
+Croatia,Europe,2018,1.115,5.321
+Croatia,Europe,2019,1.155,5.432
+Cyprus,Europe,2015,1.20813,5.689
+Cyprus,Europe,2016,1.31857,5.546
+Cyprus,Europe,2017,1.355938077,5.620999813
+Cyprus,Europe,2018,1.229,5.762
+Cyprus,Europe,2019,1.263,6.046
+Czech Republic,Europe,2015,1.17898,6.505
+Czech Republic,Europe,2016,1.30915,6.596
+Czech Republic,Europe,2017,1.352682352,6.609000206
+Czech Republic,Europe,2018,1.233,6.711
+Czech Republic,Europe,2019,1.269,6.852
+Democratic Republic of the Congo,Africa,2015,0.0,4.517
+Democratic Republic of the Congo,Africa,2016,0.05661,4.272
+Democratic Republic of the Congo,Africa,2017,0.092102349,4.28000021
+Democratic Republic of the Congo,Africa,2018,0.069,4.245
+Democratic Republic of the Congo,Africa,2019,0.094,4.418
+Denmark,Europe,2015,1.32548,7.527
+Denmark,Europe,2016,1.44178,7.526
+Denmark,Europe,2017,1.482383013,7.521999836
+Denmark,Europe,2018,1.351,7.555
+Denmark,Europe,2019,1.383,7.6
+Djibouti,Africa,2015,0.44025,4.369
+Dominican Republic,South America,2015,0.89537,4.885
+Dominican Republic,South America,2016,1.02787,5.155
+Dominican Republic,South America,2017,1.079373837,5.230000019
+Dominican Republic,South America,2018,0.982,5.302
+Dominican Republic,South America,2019,1.015,5.425
+Ecuador,South America,2015,0.86402,5.975
+Ecuador,South America,2016,0.97306,5.976
+Ecuador,South America,2017,1.000820398,6.007999897
+Ecuador,South America,2018,0.889,5.973
+Ecuador,South America,2019,0.912,6.028
+Egypt,Africa,2015,0.8818,4.194
+Egypt,Africa,2016,0.95395,4.362
+Egypt,Africa,2017,0.989701807,4.735000134
+Egypt,Africa,2018,0.885,4.419
+Egypt,Africa,2019,0.913,4.166
+El Salvador,South America,2015,0.76454,6.13
+El Salvador,South America,2016,0.8737,6.068
+El Salvador,South America,2017,0.909784496,6.002999783
+El Salvador,South America,2018,0.806,6.167
+El Salvador,South America,2019,0.794,6.253
+Estonia,Europe,2015,1.15174,5.429
+Estonia,Europe,2016,1.27964,5.517
+Estonia,Europe,2017,1.32087934,5.611000061
+Estonia,Europe,2018,1.2,5.739
+Estonia,Europe,2019,1.237,5.893
+Ethiopia,Africa,2015,0.19073,4.512
+Ethiopia,Africa,2016,0.29283,4.508
+Ethiopia,Africa,2017,0.339233845,4.460000038
+Ethiopia,Africa,2018,0.308,4.35
+Ethiopia,Africa,2019,0.336,4.286
+Finland,Europe,2015,1.29025,7.406
+Finland,Europe,2016,1.40598,7.413
+Finland,Europe,2017,1.443571925,7.468999863
+Finland,Europe,2018,1.305,7.632
+Finland,Europe,2019,1.34,7.769
+France,Europe,2015,1.27778,6.575
+France,Europe,2016,1.39488,6.478
+France,Europe,2017,1.430923462,6.441999912
+France,Europe,2018,1.293,6.489
+France,Europe,2019,1.324,6.592
+Gabon,Africa,2015,1.06024,3.896
+Gabon,Africa,2016,1.15851,4.121
+Gabon,Africa,2017,1.198210239,4.465000153
+Gabon,Africa,2018,1.036,4.758
+Gabon,Africa,2019,1.057,4.799
+Gambia,Africa,2019,0.308,4.516
+Georgia,Europe,2015,0.7419,4.297
+Georgia,Europe,2016,0.83792,4.252
+Georgia,Europe,2017,0.950612664,4.285999775
+Georgia,Europe,2018,0.853,4.34
+Georgia,Europe,2019,0.886,4.519
+Germany,Europe,2015,1.32792,6.75
+Germany,Europe,2016,1.44787,6.994
+Germany,Europe,2017,1.487923384,6.951000214
+Germany,Europe,2018,1.34,6.965
+Germany,Europe,2019,1.373,6.985
+Ghana,Africa,2015,0.54558,4.633
+Ghana,Africa,2016,0.63107,4.276
+Ghana,Africa,2017,0.667224824,4.119999886
+Ghana,Africa,2018,0.592,4.657
+Ghana,Africa,2019,0.611,4.996
+Greece,Europe,2015,1.15406,4.857
+Greece,Europe,2016,1.24886,5.033
+Greece,Europe,2017,1.289487481,5.227000237
+Greece,Europe,2018,1.154,5.358
+Greece,Europe,2019,1.181,5.287
+Guatemala,South America,2015,0.74553,6.123
+Guatemala,South America,2016,0.83454,6.324
+Guatemala,South America,2017,0.872001946,6.453999996
+Guatemala,South America,2018,0.781,6.382
+Guatemala,South America,2019,0.8,6.436
+Guinea,Africa,2015,0.17417,3.656
+Guinea,Africa,2016,0.22415,3.607
+Guinea,Africa,2017,0.24454993,3.506999969
+Guinea,Africa,2018,0.344,3.964
+Guinea,Africa,2019,0.38,4.534
+Haiti,South America,2015,0.26673,4.518
+Haiti,South America,2016,0.34097,4.028
+Haiti,South America,2017,0.368610263,3.602999926
+Haiti,South America,2018,0.315,3.582
+Haiti,South America,2019,0.323,3.597
+Honduras,South America,2015,0.59532,4.788
+Honduras,South America,2016,0.69429,4.871
+Honduras,South America,2017,0.730573118,5.181000233
+Honduras,South America,2018,0.62,5.504
+Honduras,South America,2019,0.642,5.86
+Hong Kong,Asia,2015,1.38604,5.474
+Hong Kong,Asia,2016,1.5107,5.458
+Hong Kong,Asia,2017,1.551674843,5.472000122
+Hong Kong,Asia,2018,1.405,5.43
+Hong Kong,Asia,2019,1.438,5.43
+Hungary,Europe,2015,1.12094,4.8
+Hungary,Europe,2016,1.24142,5.145
+Hungary,Europe,2017,1.286011934,5.323999882
+Hungary,Europe,2018,1.171,5.62
+Hungary,Europe,2019,1.201,5.758
+Iceland,Europe,2015,1.30232,7.561
+Iceland,Europe,2016,1.42666,7.501
+Iceland,Europe,2017,1.48063302,7.504000187
+Iceland,Europe,2018,1.343,7.495
+Iceland,Europe,2019,1.38,7.494
+India,Asia,2015,0.64499,4.565
+India,Asia,2016,0.74036,4.404
+India,Asia,2017,0.792221248,4.315000057
+India,Asia,2018,0.721,4.19
+India,Asia,2019,0.755,4.015
+Indonesia,Asia,2015,0.82827,5.399
+Indonesia,Asia,2016,0.95104,5.314
+Indonesia,Asia,2017,0.995538592,5.262000084
+Indonesia,Asia,2018,0.899,5.093
+Indonesia,Asia,2019,0.931,5.192
+Iran,Africa,2015,1.0088,4.686
+Iran,Africa,2016,1.11758,4.813
+Iran,Africa,2017,1.156873107,4.691999912
+Iran,Africa,2018,1.059,4.707
+Iran,Africa,2019,1.1,4.548
+Iraq,Africa,2015,0.98549,4.677
+Iraq,Africa,2016,1.07474,4.575
+Iraq,Africa,2017,1.102710485,4.497000217
+Iraq,Africa,2018,1.01,4.456
+Iraq,Africa,2019,1.043,4.437
+Ireland,Europe,2015,1.33596,6.94
+Ireland,Europe,2016,1.48341,6.907
+Ireland,Europe,2017,1.535706639,6.977000237
+Ireland,Europe,2018,1.448,6.977
+Ireland,Europe,2019,1.499,7.021
+Israel,Africa,2015,1.22857,7.278
+Israel,Africa,2016,1.33766,7.267
+Israel,Africa,2017,1.375382423,7.212999821
+Israel,Africa,2018,1.301,6.814
+Israel,Africa,2019,1.276,7.139
+Italy,Europe,2015,1.25114,5.948
+Italy,Europe,2016,1.35495,5.977
+Italy,Europe,2017,1.395066619,5.964000225
+Italy,Europe,2018,1.264,6.0
+Italy,Europe,2019,1.294,6.223
+Ivory Coast,Africa,2015,0.46534,3.655
+Ivory Coast,Africa,2016,0.55507,3.916
+Ivory Coast,Africa,2017,0.603048921,4.179999828
+Ivory Coast,Africa,2018,0.541,4.671
+Ivory Coast,Africa,2019,0.569,4.944
+Jamaica,South America,2015,0.81038,5.709
+Jamaica,South America,2016,0.89333,5.51
+Jamaica,South America,2017,0.925579309,5.31099987
+Jamaica,South America,2018,0.819,5.89
+Jamaica,South America,2019,0.831,5.89
+Japan,Asia,2015,1.27074,5.987
+Japan,Asia,2016,1.38007,5.921
+Japan,Asia,2017,1.416915178,5.920000076
+Japan,Asia,2018,1.294,5.915
+Japan,Asia,2019,1.327,5.886
+Jordan,Africa,2015,0.90198,5.192
+Jordan,Africa,2016,0.99673,5.303
+Jordan,Africa,2017,0.991012394,5.335999966
+Jordan,Africa,2018,0.822,5.161
+Jordan,Africa,2019,0.837,4.906
+Kazakhstan,Europe,2015,1.12254,5.855
+Kazakhstan,Europe,2016,1.22943,5.919
+Kazakhstan,Europe,2017,1.28455627,5.818999767
+Kazakhstan,Europe,2018,1.143,5.79
+Kazakhstan,Europe,2019,1.173,5.809
+Kenya,Africa,2015,0.36471,4.419
+Kenya,Africa,2016,0.52267,4.356
+Kenya,Africa,2017,0.560479462,4.552999973
+Kenya,Africa,2018,0.493,4.41
+Kenya,Africa,2019,0.512,4.509
+Kosovo,Europe,2015,0.80148,5.589
+Kosovo,Europe,2016,0.90145,5.401
+Kosovo,Europe,2017,0.951484382,5.278999805
+Kosovo,Europe,2018,0.855,5.662
+Kosovo,Europe,2019,0.882,6.1
+Kuwait,Africa,2015,1.55422,6.295
+Kuwait,Africa,2016,1.61714,6.239
+Kuwait,Africa,2017,1.632952452,6.105000019
+Kuwait,Africa,2018,1.474,6.083
+Kuwait,Africa,2019,1.5,6.021
+Kyrgyzstan,Europe,2015,0.47428,5.286
+Kyrgyzstan,Europe,2016,0.56044,5.185
+Kyrgyzstan,Europe,2017,0.596220076,5.004000187
+Kyrgyzstan,Europe,2018,0.53,5.131
+Kyrgyzstan,Europe,2019,0.551,5.261
+Laos,Asia,2015,0.59066,4.876
+Laos,Asia,2016,0.68042,4.876
+Laos,Asia,2018,0.72,4.623
+Laos,Asia,2019,0.764,4.796
+Latvia,Europe,2015,1.11312,5.098
+Latvia,Europe,2016,1.21788,5.56
+Latvia,Europe,2017,1.260748625,5.849999905
+Latvia,Europe,2018,1.148,5.933
+Latvia,Europe,2019,1.187,5.94
+Lebanon,Africa,2015,1.02564,4.839
+Lebanon,Africa,2016,1.12268,5.129
+Lebanon,Africa,2017,1.074987531,5.224999905
+Lebanon,Africa,2018,0.965,5.358
+Lebanon,Africa,2019,0.987,5.197
+Lesotho,Africa,2015,0.37545,4.898
+Lesotho,Africa,2017,0.521021247,3.808000088
+Lesotho,Africa,2018,0.472,3.808
+Lesotho,Africa,2019,0.489,3.802
+Liberia,Africa,2015,0.0712,4.571
+Liberia,Africa,2016,0.10706,3.622
+Liberia,Africa,2017,0.119041793,3.532999992
+Liberia,Africa,2018,0.076,3.495
+Liberia,Africa,2019,0.073,3.975
+Libya,Africa,2015,1.13145,5.754
+Libya,Africa,2016,1.06688,5.615
+Libya,Africa,2017,1.101803064,5.525000095
+Libya,Africa,2018,0.985,5.566
+Libya,Africa,2019,1.044,5.525
+Lithuania,Europe,2015,1.14723,5.833
+Lithuania,Europe,2016,1.2692,5.813
+Lithuania,Europe,2017,1.314582348,5.90199995
+Lithuania,Europe,2018,1.197,5.952
+Lithuania,Europe,2019,1.238,6.149
+Luxembourg,Europe,2015,1.56391,6.946
+Luxembourg,Europe,2016,1.69752,6.871
+Luxembourg,Europe,2017,1.741943598,6.862999916
+Luxembourg,Europe,2018,1.576,6.91
+Luxembourg,Europe,2019,1.609,7.09
+Macedonia,Europe,2015,0.91851,5.007
+Macedonia,Europe,2016,1.0193,5.121
+Macedonia,Europe,2017,1.064577937,5.175000191
+Macedonia,Europe,2018,0.959,5.185
+Macedonia,Europe,2019,0.983,5.274
+Madagascar,Africa,2015,0.20824,3.681
+Madagascar,Africa,2016,0.27954,3.695
+Madagascar,Africa,2017,0.305808693,3.644000053
+Madagascar,Africa,2018,0.262,3.774
+Madagascar,Africa,2019,0.274,3.933
+Malawi,Africa,2015,0.01604,4.292
+Malawi,Africa,2016,0.08709,4.156
+Malawi,Africa,2017,0.233442038,3.970000029
+Malawi,Africa,2018,0.186,3.587
+Malawi,Africa,2019,0.191,3.41
+Malaysia,Asia,2015,1.12486,5.77
+Malaysia,Asia,2016,1.25142,6.005
+Malaysia,Asia,2017,1.29121542,6.084000111
+Malaysia,Asia,2018,1.161,6.322
+Malaysia,Asia,2019,1.221,5.339
+Mali,Africa,2015,0.26074,3.995
+Mali,Africa,2016,0.31292,4.073
+Mali,Africa,2017,0.476180494,4.190000057
+Mali,Africa,2018,0.37,4.447
+Mali,Africa,2019,0.385,4.39
+Malta,Europe,2015,1.2074,6.302
+Malta,Europe,2016,1.30782,6.488
+Malta,Europe,2017,1.343279839,6.52699995
+Malta,Europe,2018,1.27,6.627
+Malta,Europe,2019,1.3,6.726
+Mauritania,Africa,2015,0.45407,4.436
+Mauritania,Africa,2016,0.61391,4.201
+Mauritania,Africa,2017,0.648457289,4.291999817
+Mauritania,Africa,2018,0.557,4.356
+Mauritania,Africa,2019,0.57,4.49
+Mauritius,Africa,2015,1.00761,5.477
+Mauritius,Africa,2016,1.14372,5.648
+Mauritius,Africa,2017,1.189395547,5.629000187
+Mauritius,Africa,2018,1.09,5.891
+Mauritius,Africa,2019,1.12,5.888
+Mexico,South America,2015,1.02054,7.187
+Mexico,South America,2016,1.11508,6.778
+Mexico,South America,2017,1.153183818,6.578000069
+Mexico,South America,2018,1.038,6.488
+Mexico,South America,2019,1.07,6.595
+Moldova,Europe,2015,0.59448,5.889
+Moldova,Europe,2016,0.69177,5.897
+Moldova,Europe,2017,0.72887063,5.837999821
+Moldova,Europe,2018,0.657,5.64
+Moldova,Europe,2019,0.685,5.529
+Mongolia,Asia,2015,0.82819,4.874
+Mongolia,Asia,2016,0.98853,4.907
+Mongolia,Asia,2017,1.027235866,4.954999924
+Mongolia,Asia,2018,0.914,5.125
+Mongolia,Asia,2019,0.948,5.285
+Montenegro,Europe,2015,0.97438,5.192
+Montenegro,Europe,2016,1.07838,5.161
+Montenegro,Europe,2017,1.121129036,5.236999989
+Montenegro,Europe,2018,1.017,5.347
+Montenegro,Europe,2019,1.051,5.523
+Morocco,Africa,2015,0.73479,5.013
+Morocco,Africa,2016,0.84058,5.151
+Morocco,Africa,2017,0.878114581,5.235000134
+Morocco,Africa,2018,0.779,5.254
+Morocco,Africa,2019,0.801,5.208
+Mozambique,Africa,2015,0.08308,4.971
+Mozambique,Africa,2017,0.23430565,4.550000191
+Mozambique,Africa,2018,0.198,4.417
+Mozambique,Africa,2019,0.204,4.466
+Myanmar,Asia,2015,0.27108,4.307
+Myanmar,Asia,2016,0.34112,4.395
+Myanmar,Asia,2017,0.36711055,4.545000076
+Myanmar,Asia,2018,0.682,4.308
+Myanmar,Asia,2019,0.71,4.36
+Namibia,Africa,2016,0.93287,4.574
+Namibia,Africa,2017,0.964434326,4.573999882
+Namibia,Africa,2018,0.874,4.441
+Namibia,Africa,2019,0.879,4.639
+Nepal,Asia,2015,0.35997,4.514
+Nepal,Asia,2016,0.44626,4.793
+Nepal,Asia,2017,0.479820192,4.961999893
+Nepal,Asia,2018,0.425,4.88
+Nepal,Asia,2019,0.446,4.913
+Netherlands,Europe,2015,1.32944,7.378
+Netherlands,Europe,2016,1.46468,7.339
+Netherlands,Europe,2017,1.503944635,7.376999855
+Netherlands,Europe,2018,1.361,7.441
+Netherlands,Europe,2019,1.396,7.488
+New Zealand,Oceania,2015,1.25018,7.286
+New Zealand,Oceania,2016,1.36066,7.334
+New Zealand,Oceania,2017,1.405706048,7.31400013
+New Zealand,Oceania,2018,1.268,7.324
+New Zealand,Oceania,2019,1.303,7.307
+Nicaragua,South America,2015,0.59325,5.828
+Nicaragua,South America,2016,0.69384,5.992
+Nicaragua,South America,2017,0.737299204,6.071000099
+Nicaragua,South America,2018,0.668,6.141
+Nicaragua,South America,2019,0.694,6.105
+Niger,Africa,2015,0.0694,3.845
+Niger,Africa,2016,0.1327,3.856
+Niger,Africa,2017,0.161925331,4.027999878
+Niger,Africa,2018,0.131,4.166
+Niger,Africa,2019,0.138,4.628
+Nigeria,Africa,2015,0.65435,5.268
+Nigeria,Africa,2016,0.75216,4.875
+Nigeria,Africa,2017,0.783756256,5.073999882
+Nigeria,Africa,2018,0.689,5.155
+Nigeria,Africa,2019,0.696,5.265
+North Cyprus,Europe,2015,1.20806,5.695
+North Cyprus,Europe,2016,1.31141,5.771
+North Cyprus,Europe,2017,1.346911311,5.809999943
+North Cyprus,Europe,2018,1.229,5.835
+North Cyprus,Europe,2019,1.263,5.718
+Norway,Europe,2015,1.459,7.522
+Norway,Europe,2016,1.57744,7.498
+Norway,Europe,2017,1.616463184,7.537000179
+Norway,Europe,2018,1.456,7.594
+Norway,Europe,2019,1.488,7.554
+Oman,Africa,2015,1.36011,6.853
+Pakistan,Asia,2015,0.59543,5.194
+Pakistan,Asia,2016,0.68816,5.132
+Pakistan,Asia,2017,0.726883531,5.269000053
+Pakistan,Asia,2018,0.652,5.472
+Pakistan,Asia,2019,0.677,5.653
+Palestinian Territories,Africa,2015,0.59867,4.715
+Palestinian Territories,Africa,2016,0.67024,4.754
+Palestinian Territories,Africa,2017,0.716249228,4.775000095
+Palestinian Territories,Africa,2018,0.642,4.743
+Palestinian Territories,Africa,2019,0.657,4.696
+Panama,South America,2015,1.06353,6.786
+Panama,South America,2016,1.18306,6.701
+Panama,South America,2017,1.233748436,6.452000141
+Panama,South America,2018,1.112,6.43
+Panama,South America,2019,1.149,6.321
+Paraguay,South America,2015,0.75985,5.878
+Paraguay,South America,2016,0.89373,5.538
+Paraguay,South America,2017,0.932537317,5.493000031
+Paraguay,South America,2018,0.835,5.681
+Paraguay,South America,2019,0.855,5.743
+Peru,South America,2015,0.90019,5.824
+Peru,South America,2016,0.99602,5.743
+Peru,South America,2017,1.035225272,5.715000153
+Peru,South America,2018,0.934,5.663
+Peru,South America,2019,0.96,5.697
+Philippines,Asia,2015,0.70532,5.073
+Philippines,Asia,2016,0.81217,5.279
+Philippines,Asia,2017,0.857699215,5.429999828
+Philippines,Asia,2018,0.775,5.524
+Philippines,Asia,2019,0.807,5.631
+Poland,Europe,2015,1.12555,5.791
+Poland,Europe,2016,1.24585,5.835
+Poland,Europe,2017,1.291787863,5.97300005
+Poland,Europe,2018,1.176,6.123
+Poland,Europe,2019,1.206,6.182
+Portugal,Europe,2015,1.15991,5.102
+Portugal,Europe,2016,1.27607,5.123
+Portugal,Europe,2017,1.315175295,5.195000172
+Portugal,Europe,2018,1.188,5.41
+Portugal,Europe,2019,1.221,5.693
+Puerto Rico,South America,2016,1.35943,7.039
+Qatar,Africa,2015,1.69042,6.611
+Qatar,Africa,2016,1.82427,6.375
+Qatar,Africa,2017,1.870765686,6.375
+Qatar,Africa,2018,1.649,6.374
+Qatar,Africa,2019,1.684,6.374
+Romania,Europe,2015,1.04345,5.124
+Romania,Europe,2016,1.1697,5.528
+Romania,Europe,2017,1.217683911,5.824999809
+Romania,Europe,2018,1.116,5.945
+Romania,Europe,2019,1.162,6.07
+Russia,Europe,2015,1.13764,5.716
+Russia,Europe,2016,1.23228,5.856
+Russia,Europe,2017,1.281778097,5.962999821
+Russia,Europe,2018,1.151,5.81
+Russia,Europe,2019,1.183,5.648
+Rwanda,Africa,2015,0.22208,3.465
+Rwanda,Africa,2016,0.32846,3.515
+Rwanda,Africa,2017,0.368745893,3.470999956
+Rwanda,Africa,2018,0.332,3.408
+Rwanda,Africa,2019,0.359,3.334
+Saudi Arabia,Africa,2015,1.39541,6.411
+Saudi Arabia,Africa,2016,1.48953,6.379
+Saudi Arabia,Africa,2017,1.530623555,6.343999863
+Saudi Arabia,Africa,2018,1.379,6.371
+Saudi Arabia,Africa,2019,1.403,6.375
+Senegal,Africa,2015,0.36498,3.904
+Senegal,Africa,2016,0.44314,4.219
+Senegal,Africa,2017,0.479309022,4.534999847
+Senegal,Africa,2018,0.429,4.631
+Senegal,Africa,2019,0.45,4.681
+Serbia,Europe,2015,0.92053,5.123
+Serbia,Europe,2016,1.03437,5.177
+Serbia,Europe,2017,1.069317579,5.394999981
+Serbia,Europe,2018,0.975,5.398
+Serbia,Europe,2019,1.004,5.603
+Sierra Leone,Africa,2015,0.33024,4.507
+Sierra Leone,Africa,2016,0.36485,4.635
+Sierra Leone,Africa,2017,0.368420929,4.709000111
+Sierra Leone,Africa,2018,0.256,4.571
+Sierra Leone,Africa,2019,0.268,4.374
+Singapore,Asia,2015,1.52186,6.798
+Singapore,Asia,2016,1.64555,6.739
+Singapore,Asia,2017,1.69227767,6.572000027
+Singapore,Asia,2018,1.529,6.343
+Singapore,Asia,2019,1.572,6.262
+Slovakia,Europe,2015,1.16891,5.995
+Slovakia,Europe,2016,1.27973,6.078
+Slovakia,Europe,2017,1.325393558,6.09800005
+Slovakia,Europe,2018,1.21,6.173
+Slovakia,Europe,2019,1.246,6.198
+Slovenia,Europe,2015,1.18498,5.848
+Slovenia,Europe,2016,1.29947,5.768
+Slovenia,Europe,2017,1.341205955,5.757999897
+Slovenia,Europe,2018,1.219,5.948
+Slovenia,Europe,2019,1.258,6.118
+Somalia,Africa,2015,0.18847,5.057
+Somalia,Africa,2016,0.0,5.44
+Somalia,Africa,2017,0.022643184,5.151000023
+Somalia,Africa,2018,0.0,4.982
+Somalia,Africa,2019,0.0,4.668
+Somalila,Africa,2016,0.25558,5.057
+South Africa,Africa,2015,0.92049,4.642
+South Africa,Africa,2016,1.02416,4.459
+South Africa,Africa,2017,1.054698706,4.828999996
+South Africa,Africa,2018,0.94,4.724
+South Africa,Africa,2019,0.96,4.722
+South Korea,Asia,2015,1.24461,5.984
+South Korea,Asia,2016,1.35948,5.835
+South Korea,Asia,2017,1.401678443,5.837999821
+South Korea,Asia,2018,1.266,5.875
+South Korea,Asia,2019,1.301,5.895
+South Sudan,Africa,2016,0.39394,3.832
+South Sudan,Africa,2017,0.397248626,3.59100008
+South Sudan,Africa,2018,0.337,3.254
+South Sudan,Africa,2019,0.306,2.853
+Spain,Europe,2015,1.23011,6.329
+Spain,Europe,2016,1.34253,6.361
+Spain,Europe,2017,1.384397864,6.402999878
+Spain,Europe,2018,1.251,6.31
+Spain,Europe,2019,1.286,6.354
+Sri Lanka,Asia,2015,0.83524,4.271
+Sri Lanka,Asia,2016,0.97318,4.415
+Sri Lanka,Asia,2017,1.009850144,4.440000057
+Sri Lanka,Asia,2018,0.918,4.471
+Sri Lanka,Asia,2019,0.949,4.366
+Sudan,Africa,2015,0.52107,4.55
+Sudan,Africa,2016,0.63069,4.139
+Sudan,Africa,2017,0.659516692,4.138999939
+Sudan,Africa,2018,0.605,4.139
+Suriname,South America,2015,0.99534,6.269
+Suriname,South America,2016,1.09686,6.269
+Swaziland,Africa,2015,0.71206,4.867
+Swaziland,Africa,2019,0.811,4.212
+Sweden,Europe,2015,1.33171,7.364
+Sweden,Europe,2016,1.45181,7.291
+Sweden,Europe,2017,1.494387269,7.28399992
+Sweden,Europe,2018,1.355,7.314
+Sweden,Europe,2019,1.387,7.343
+Switzerland,Europe,2015,1.39651,7.587
+Switzerland,Europe,2016,1.52733,7.509
+Switzerland,Europe,2017,1.564979553,7.493999958
+Switzerland,Europe,2018,1.42,7.487
+Switzerland,Europe,2019,1.452,7.48
+Syria,Africa,2015,0.6632,3.006
+Syria,Africa,2016,0.74719,3.069
+Syria,Africa,2017,0.777153134,3.461999893
+Syria,Africa,2018,0.689,3.462
+Syria,Africa,2019,0.619,3.462
+Taiwan,Africa,2017,1.433626533,6.421999931
+Taiwan,Asia,2015,1.29098,6.298
+Taiwan,Asia,2016,1.39729,6.379
+Taiwan,Asia,2018,1.365,6.441
+Taiwan,Asia,2019,1.368,6.446
+Tajikistan,Europe,2015,0.39047,4.786
+Tajikistan,Europe,2016,0.48835,4.996
+Tajikistan,Europe,2017,0.524713635,5.040999889
+Tajikistan,Europe,2018,0.474,5.199
+Tajikistan,Europe,2019,0.493,5.467
+Tanzania,Africa,2015,0.2852,3.781
+Tanzania,Africa,2016,0.47155,3.666
+Tanzania,Africa,2017,0.511135876,3.348999977
+Tanzania,Africa,2018,0.455,3.303
+Tanzania,Africa,2019,0.476,3.231
+Thailand,Asia,2015,0.9669,6.455
+Thailand,Asia,2016,1.0893,6.474
+Thailand,Asia,2017,1.127868772,6.423999786
+Thailand,Asia,2018,1.016,6.072
+Thailand,Asia,2019,1.05,6.008
+Togo,Africa,2015,0.20868,2.839
+Togo,Africa,2016,0.28123,3.303
+Togo,Africa,2017,0.305444717,3.494999886
+Togo,Africa,2018,0.259,3.999
+Togo,Africa,2019,0.275,4.085
+Trinidad and Tobago,South America,2015,1.21183,6.168
+Trinidad and Tobago,South America,2016,1.32572,6.168
+Trinidad and Tobago,South America,2017,1.361355901,6.168000221
+Trinidad and Tobago,South America,2018,1.223,6.192
+Trinidad and Tobago,South America,2019,1.231,6.192
+Tunisia,Africa,2015,0.88113,4.739
+Tunisia,Africa,2016,0.97724,5.045
+Tunisia,Africa,2017,1.007265806,4.804999828
+Tunisia,Africa,2018,0.9,4.592
+Tunisia,Africa,2019,0.921,4.461
+Turkey,Europe,2015,1.06098,5.332
+Turkey,Europe,2016,1.16492,5.389
+Turkey,Europe,2017,1.198274374,5.5
+Turkey,Europe,2018,1.148,5.483
+Turkey,Europe,2019,1.183,5.373
+Turkmenistan,Europe,2015,0.95847,5.548
+Turkmenistan,Europe,2016,1.08017,5.658
+Turkmenistan,Europe,2017,1.130776763,5.822000027
+Turkmenistan,Europe,2018,1.016,5.636
+Turkmenistan,Europe,2019,1.052,5.247
+Uganda,Africa,2015,0.21102,3.931
+Uganda,Africa,2016,0.34719,3.739
+Uganda,Africa,2017,0.381430715,4.080999851
+Uganda,Africa,2018,0.322,4.161
+Uganda,Africa,2019,0.332,4.189
+Ukraine,Europe,2015,0.79907,4.681
+Ukraine,Europe,2016,0.87287,4.324
+Ukraine,Europe,2017,0.894651949,4.096000195
+Ukraine,Europe,2018,0.793,4.103
+Ukraine,Europe,2019,0.82,4.332
+United Arab Emirates,Africa,2015,1.42727,6.901
+United Arab Emirates,Africa,2016,1.57352,6.573
+United Arab Emirates,Africa,2017,1.626343369,6.647999763
+United Arab Emirates,Africa,2018,2.096,6.774
+United Arab Emirates,Africa,2019,1.503,6.825
+United Kingdom,Europe,2015,1.26637,6.867
+United Kingdom,Europe,2016,1.40283,6.725
+United Kingdom,Europe,2017,1.44163394,6.714000225
+United Kingdom,Europe,2018,1.244,7.19
+United Kingdom,Europe,2019,1.333,7.054
+United States of America,North America,2015,1.39451,7.119
+United States of America,North America,2016,1.50796,7.104
+United States of America,North America,2017,1.546259284,6.993000031
+United States of America,North America,2018,1.398,6.886
+United States of America,North America,2019,1.433,6.892
+Uruguay,South America,2015,1.06166,6.485
+Uruguay,South America,2016,1.18157,6.545
+Uruguay,South America,2017,1.217559695,6.453999996
+Uruguay,South America,2018,1.093,6.379
+Uruguay,South America,2019,1.124,6.293
+Uzbekistan,Europe,2015,0.63244,6.003
+Uzbekistan,Europe,2016,0.73591,5.987
+Uzbekistan,Europe,2017,0.786441088,5.971000195
+Uzbekistan,Europe,2018,0.719,6.096
+Uzbekistan,Europe,2019,0.745,6.174
+Venezuela,South America,2015,1.04424,6.81
+Venezuela,South America,2016,1.13367,6.084
+Venezuela,South America,2017,1.128431201,5.25
+Venezuela,South America,2018,0.996,4.806
+Venezuela,South America,2019,0.96,4.707
+Vietnam,Asia,2015,0.63216,5.36
+Vietnam,Asia,2016,0.74037,5.061
+Vietnam,Asia,2017,0.788547575,5.073999882
+Vietnam,Asia,2018,0.715,5.103
+Vietnam,Asia,2019,0.741,5.175
+Yemen,Africa,2015,0.54649,4.077
+Yemen,Africa,2016,0.57939,3.724
+Yemen,Africa,2017,0.591683447,3.592999935
+Yemen,Africa,2018,0.442,3.355
+Yemen,Africa,2019,0.287,3.38
+Zambia,Africa,2015,0.47038,5.129
+Zambia,Africa,2016,0.61202,4.795
+Zambia,Africa,2017,0.636406779,4.513999939
+Zambia,Africa,2018,0.562,4.377
+Zambia,Africa,2019,0.578,4.107
+Zimbabwe,Africa,2015,0.271,4.61
+Zimbabwe,Africa,2016,0.35041,4.193
+Zimbabwe,Africa,2017,0.375846535,3.875
+Zimbabwe,Africa,2018,0.357,3.692
+Zimbabwe,Africa,2019,0.366,3.663
