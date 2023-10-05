@@ -3,7 +3,7 @@
     "title": "Difference in Happiness Scores",
     "width": 220,
     "height": 100,
-    "data": {"url": "data/Score_Difference.csv"},
+    "data": {"url": "data/score_difference.csv"},
     "mark": {
         "type": "line",
         "point": true
