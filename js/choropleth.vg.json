@@ -2,6 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Score by Country (2015 - 2019)",
   "width": "container",
+  "height": 400,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
   "params": [
     {
       "name": "Year_selection",
@@ -110,9 +115,6 @@
                 "type": "linear",
                 "scheme": "greens",
                 "nice": true
-              },
-              "legend": {
-                "title": "Score"
               }
             },
             "tooltip": [
@@ -124,7 +126,8 @@
               {
                 "field": "Score",
                 "type": "quantitative",
-                "title": "Score"
+                "title": "Score",
+                "format": ".2f"
               }
             ]
           }
@@ -137,7 +140,7 @@
             },
             {"filter": "datum.ranking == 1"},
             {
-              "calculate": "'The highest scoring country is; ' + datum.Country + '; with a score of ' + format(datum.Score, '.2f')",
+              "calculate": "'The highest scoring; country is; ' + datum.Country + '; with a score of ' + format(datum.Score, '.2f')",
               "as": "annotation_raw"
             },
             {
@@ -149,16 +152,19 @@
             {
               "mark": {
                 "type": "circle",
-                "color": "red"
+                "color": "black"
               }
             },
             {
               "mark": {
                 "type": "text",
-                "align": "right",
-                "dx": -5,
-                "color": "red",
+                "align": "left",
+                "dx": 5,
+                "color": "black",
                 "fontWeight": "bold"
+              },
+              "encoding": {
+                "text": {"field": "annotation", "type": "nominal"}
               }
             }
           ],
@@ -170,8 +176,7 @@
             "latitude": {
               "field": "Lat",
               "type": "quantitative"
-            },
-            "text": {"field": "annotation", "type": "nominal"}
+            }
           }
         }
       ]

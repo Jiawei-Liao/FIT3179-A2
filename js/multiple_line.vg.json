@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Regional Happiness Scores",
-    "width": 210,
+    "width": 280,
     "data": {"url": "data/happiness_region_year.csv"},
     "mark": {
       "type": "line",

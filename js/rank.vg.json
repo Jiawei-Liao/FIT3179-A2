@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Region category ranking (2019)",
-  "width": 220,
+  "width": 280,
   "height": 150,
   "data": {"url": "data/2019_region_scores.csv"},
   "mark": {
@@ -11,7 +11,8 @@
   "encoding": {
     "x": {
       "field": "Type",
-      "sort": ["Happiness", "Economy", "Family", "Health", "Freedom", "Government", "Generosity"]
+      "sort": ["Happiness", "Economy", "Family", "Health", "Freedom", "Government", "Generosity"],
+      "title": "Category Type"
     },
     "y": {
       "field": "Rank",

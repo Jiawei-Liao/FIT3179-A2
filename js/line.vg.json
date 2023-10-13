@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Difference in Happiness Scores",
-    "width": 210,
-    "height": 100,
+    "width": 280,
+    "height": 200,
     "data": {"url": "data/score_difference.csv"},
     "mark": {
         "type": "line",

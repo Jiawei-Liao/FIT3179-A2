@@ -19,82 +19,162 @@
 </head>
 <body>
   <div class="page">
-
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h1 class="title">World Happiness</h1>
-        <p>What is a happiness score and who calculates them? How is it calculated? What do the different components of Economy, Family, Health, Freedom, Government, and Generosity mean? How are they found?</p>
+        <h1 class="title">World Happiness 2015 - 2019</h1>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <p>
+            <b>The World Happiness Score</b> is a measure of a country's population's well-being and happiness.
+            <br><br>
+            This score is calculated and published by the <b>United Nations Sustainable Development Solutions Network (UNSDSN)</b>.
+            <br><br>
+            The purpose of finding these scores is to help guide public policy and to help countries improve their overall happiness.
+            <br><br>
+            The final Happiness Score is formulated by combining a list of different factors, including <b>economy</b>, <b>family</b>, <b>health</b>, <b>freedom</b>, <b>government</b>, and <b>generosity scores</b>.
+            These factors can be explained as following:
+          </p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>
+            <b>Economy:</b> how financially stable and well off a country is.
+            <br><br>
+            <b>Family:</b> the strength and supportiveness of social connections within a group, particularly within families.
+            <br><br>
+            <b>Health:</b> how healthy a person is.
+            <br><br>
+            <b>Freedom:</b> how much freedom a person has to make life choices.
+            <br><br>
+            <b>Government:</b> how much trust a person has in their government.
+            <br><br>
+            <b>Generosity:</b> the willingness of individuals to help other strangers.
+          </p>
+        </div>
+      </div>
+      <div class="pure-u-1-1">
         <div id="choropleth" class="vis-container"></div>
       </div>
       <div class="pure-u-1-2">
         <div class="description description-left">
-          <p>Here are some general trends that can be observed from the choropleth map above.<br><br> 1.<br> 2.<br> 3.</p>
+          <p>
+            The general happiness trends of the world is that we are becoming <b style="color: blue;">increasingly unhappy</b> as shown in the choropleth map generally becoming lighter with time.
+            Many attribute this rise in unhappiness to the <b style="color: blue;">silent epidemic of loneliness</b>. 
+            This will become even more apparent as we increasingly engage online and have fewer physical interactions.
+            <br><br>
+            In addition, there are other factors that have contributed to this <b style="color: blue;">rise in unhappiness</b>, including the rise of social media, which has lead to a rise in social comparison.
+            <br><br>
+            However, <b style="color: #4682B4">Scandinavian countries</b> consistently lead in overall happiness score.
+            This can be attributed to the fact that while they may not always top each of the individual factors, they consistently achieve high scores across the board.
+            One particularly noteworthy factor is their <b>family score</b>, which indicates that there is a high level of trust between citizens, leading to better social cohesion. 
+            Many have suggested that this sense of commumnity and trust has lead to a better overall happiness score.
+          </p>
         </div>
       </div>
       <div class="pure-u-1-2">
-        <p>Here are some outliers that can be observed from the choropleth map above.<br><br> 1.<br> 2.<br> 3.</p>
+        <div class="description description-right">
+          <p>
+            While the world happiness score does trend downwards, there are some outliers:
+            <br><br> 
+            1. While the highest <b>economy score</b> danced around 1.7, in 2018, the <b style="color: #228B22">United Arab Emirates (UAE)</b> had a score of 2.10. 
+            This can be attributed to an increase in oil prices and robust growth in other sectors.
+            <br><br> 
+            2. While the rest of the world struggles with <b>government trust</b>, and especially being surrounded by countries with the <b>lowest government scores</b>, 
+            <b style="color: #228B22">Rwanda</b> excels in this aspect. This can be attributed to the fact that Rwanda has a very stable government, with low levels of corruption.
+            In addition, under the leadership of President Paul Kagame, Rwanda has seen a lot of economic growth and development, which has led to a high level of trust in the government.
+            <br><br>
+            3. While the rest of the world struggles with <b>generosity</b>, <b style="color: #D62828">Myanmar</b> has consistently held a very high generosity score, peaking at 0.84 in 2017.
+            This can be attributed to the strong Buddhist culture in Myanmar, which emphasizes generosity and giving. 
+            This is reflected in the vast majority of residents donating to charity and volunteering.
+          </p>
+        </div>
       </div>
     </div>
+  </div>
 
+  <div class="page">
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h1 class="title">Happiness Composition</h1>
+        <h2 class="subtitle">Happiness Composition</h2>
       </div>
       <div class="pure-u-1-2">
-        <div class="description description-left">
-          <div id="rank" class="vis-container"></div>
+        <div id="rank" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>
+            For the highest scoring regions of <b style="color: #9932CC">Oceania</b> and <b style="color: #B87333">North America</b>,
+            they remain consistently high across all other factors, staying in their own tier.
+            <br><br>
+            This is also true for every region for the categories of economy, <b>family</b> and <b>health</b>.
+            <br><br>
+            However, for the middle two regions of <b style="color: #4682B4">Europe</b> and <b style="color: #5A2E06">South America</b>,
+            they take a dive for the categories of <b>freedom</b>, <b>government</b> and <b>generosity</b>.
+            <br><br>
+            Instead, the bottom regions of <b style="color: #D62828">Asia</b> and <b style="color: #228B22">Africa</b> take their place.
+          </p>
         </div>
-      </div>
-      <div class="pure-u-1-2">
-        <p>Here are some interesting facts about the chart to the left<br><br> 1.<br> 2.<br> 3.</p>
       </div>
       <div class="pure-u-1-2">
         <div id="scatter" class="vis-container"></div>
       </div>
       <div class="pure-u-1-2">
-        <b>Does Money bring Happiness?</b>
-        <p>
-          There is a time old saying of "Money can't buy happiness", but is this really true?
-          From the trends from the chart to the left...
-          <br><br>
-          Is the world getting richer?
-          <br><br>
-          Is the difference between the rich and the poor getting bigger?
-        </p>
-      </div>
-    </div>
-
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h1 class="title">Happiness Trends</h1>
-      </div>
-      <div class="pure-u-1-2">
-        <div class="description description-left">
-          <div id="multiple_line" class="vis-container"></div>
+        <div class="description description-right">
+          <p>
+            There is a time old saying of "Money can't buy happiness", but is this really true?
+            <br><br>
+            From the trends from the chart to the left, from 2015 to 2017, the world's economy score has been increasing. 
+            This can be attributed to <b>low oil prices</b>, improving productivity, resulting in a more prosperous world.
+            However, in <b>2018</b>, the <b>oil prices have risen</b>. This subsequently caused the economy scores across the world to drop. 
+            However <b style="color: #228B22">United Arab Emirates (UAE)</b>, as a world leader in oil production, has seen a dramatic rise in their economy score.
+            <br><br>
+            In the chart to the left, the highest scoring country for happiness and economy is annotated. 
+            There are many instances where a country's economy score increases but their happiness score decreases.
+            Therefore, it can be concluded that money does not alone impact happiness. There are many other factors that contribute to happiness.
+          </p>
         </div>
       </div>
+    </div>
+  </div>
+  
+  <div class="page">
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h2 class="subtitle">Happiness Trends</h2>
+      </div>
       <div class="pure-u-1-2">
-        <p>
-          Does a region overtake another? Does a region fall behind or becomes sadder?
-          <br><br>
-          Are there any large jumps or drops and what could be the causes of them?
-        </p>
+        <div id="multiple_line" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>
+            While overall, the regions in the world's happiness scores are relatively constant, there are some outliers.
+            <br><br>
+            In 2017, there was a large decline in the <b style="color: #B87333">Amer</b><b style="color: #5A2E06">icas</b> region. This decline followed in the coming years.
+            This decline can be attributed to a combination of factors, including economic challenges, political instability and social unrest.
+            <br><br>
+            In the mean time, the <b style="color: #4682B4">European</b> region has seen a consistent increase in happiness score.
+            From the "Score by Country" chart, it can be observed that this region's <b>economy, government and generosity scores have been increasing</b>, resulting in the consistent increase observed.
+
+          </p>
+        </div>
       </div>
       <div class="pure-u-1-2">
         <div id="line" class="vis-container"></div>
       </div>
       <div class="pure-u-1-2">
-        <p>
-          According from ..., the average happiness is 5.54. These are the trends.
-          <br><br>
-          Why is it increasing or decreasing...
-        </p>
-      </div>
-    </div>
-
-    <div class="pure-g">
-      <div class="pure-u-1-1 small-font">
-        <p>The datasource can be found <a href="https://www.kaggle.com/datasets/unsdsn/world-happiness" target=" _blank">here</href>.</p>
+        <div class="description description-right">
+          <p>
+            In 2019 the chart depicting regional happiness scores above illustrates a <b>reduction in the difference between the highest and lowest scoring regions</b>.
+            However, <b>individual country's scores can be seen to be diverging</b>.
+            <br><br>
+            Overall, from 2015 to 2019, a trend heading upwards can be observed.
+            In 2019, the largest difference was recorded of 4.92.
+            This is a <b>3.58% increase</b> from the start in 2015 and a <b>6.49% increase</b> from the lowest point in 2016.
+          </p>
+        </div>
       </div>
     </div>
   </div>

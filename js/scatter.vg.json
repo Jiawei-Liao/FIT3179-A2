@@ -1,7 +1,8 @@
   {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Happiness vs Economy",
-  "width": 220,
+  "width": 280,
+  "height": 250,
   "params": [
     {
       "name": "Year_selection",
@@ -13,6 +14,23 @@
         "step": 1,
         "name": "Year: "
       }
+    },
+    {
+      "name": "Region_selection",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Region: "
+      }
     }
   ],
   "data": {
@@ -21,6 +39,9 @@
   "transform": [
     {
       "filter": "datum.Year == Year_selection"
+    },
+    {
+      "filter": "datum.Region == Region_selection || Region_selection == 'All'"
     }
   ],
   "encoding": {
@@ -31,12 +52,17 @@
         "type": "linear",
         "domain": [0, 2.1],
         "nice": true
-      }
+      },
+      "title": "Economy Score"
     },
     "y": {
       "field": "Happiness Score",
       "type": "quantitative",
-      "scale": {"zero": false}
+      "scale": {
+        "type": "linear",
+        "domain": [0, 8],
+        "nice": true
+      }
     },
     "color": {
       "field": "Region", 
@@ -72,12 +98,30 @@
       "mark": "circle"
     },
     {
+      "transform": [
+        {
+          "window": [
+            {
+              "op": "rank",
+              "as": "rank"
+            }
+          ],
+          "sort": [
+            {
+              "field": "Happiness Score",
+              "order": "descending"
+            }
+          ]
+        },
+        {
+          "filter": "datum.rank == 1"
+        }
+      ],
       "mark": {
         "type": "text",
         "align": "right",
         "baseline": "middle",
         "dx": -3,
-        "fontStyle": "italic",
         "fontWeight": "bold"
       },
       "encoding": {
@@ -87,13 +131,43 @@
         },
         "color": {
           "value": "black"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "window": [
+            {
+              "op": "rank",
+              "as": "eco_rank"
+            }
+          ],
+          "sort": [
+            {
+              "field": "Economy",
+              "order": "descending"
+            }
+          ]
         },
-        "size": {
-          "condition": {
-            "test": "datum.Country == 'Australia' || datum.Country == 'United States of America'",
-            "value": 11
-          },
-          "value": 0
+        {
+          "filter": "datum.eco_rank == 1"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -3,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "color": {
+          "value": "black"
         }
       }
     }
